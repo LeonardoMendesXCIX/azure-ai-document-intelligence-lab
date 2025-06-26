@@ -40,12 +40,6 @@ Este repositório apresenta a prática realizada no desafio da DIO voltado à or
 
 ---
 
-## 📸 Capturas de Tela
-
-Veja o processo em imagens na pasta [`/images`](./images) _(opcional)_.
-
----
-
 ## 🔗 Recursos Utilizados
 
 - [Microsoft Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)
@@ -57,5 +51,4 @@ Veja o processo em imagens na pasta [`/images`](./images) _(opcional)_.
 ## 👨‍💻 Autor
 
 **Leonardo Mendes**  
-📧 leozzinho.bra@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/LeonardoMendesXCIX)
+[GitHub](https://github.com/LeonardoMendesXCIX)
